@@ -16,7 +16,7 @@
 - 屏幕滚动视觉差
 - css3 animation 动画
 
-### 样式文件
+### CSS文件
 样式文件采用sass的写法，导入部分有用到的animate.css，使用预编译，样式文件更好管理
 
 ### JavaScript文件
